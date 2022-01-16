@@ -6,3 +6,10 @@ Help us harness the power of the sun and win monetary awards or funding for your
 
 
 - More details about the competion and relevant files are available [here](https://www.hackerearth.com/challenges/competitive/shell-ai-hackathon-2021/?utm_source=challenges-modern&utm_campaign=participated-challenges&utm_medium=right-panel) 
+
+
+The first round of the competition didn't exactly require you to use the images. Atleast from how I understood the objective. The second round definietly did(limited to startups i think and maybe some individuals). 
+
+That's why the .py files have functions to convert the images to arrays and finally into one CSV.
+
+The date retrieval and conversion functions were however used.
